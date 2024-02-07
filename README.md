@@ -2,7 +2,7 @@
 
 I'm John, a fifth year Software Engineering and Business Dual Degree student at the University of Calgary!
 
-⚡: I'm interested in fintech and mobile app development
+⚡ I'm interested in fintech and mobile app development
 
 🌱 I'm currently learning React Native and SvelteKit
 
