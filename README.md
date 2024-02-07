@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jmcmurtry/jmcmurtry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John, a fifth year Software Engineering and Business Dual Degree student at the University of Calgary!
 
-Here are some ideas to get you started:
+⚡: I'm interested in fintech and mobile app development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning React Native and SvelteKit
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/johnmcmurtry)
+
+Past Experiences:
+
+- 💲 Investment Analyst at [ICM Asset Management](https://www.icmassetmanagement.com/)
+- 💻 Software Development Intern at [Arcurve](https://www.arcurve.com/)
+-  📈: Business Analyst at [Arcurve](https://www.arcurve.com/)
+
