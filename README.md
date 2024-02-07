@@ -12,5 +12,5 @@ Past Experiences:
 
 - 💲 Investment Analyst Intern at [ICM Asset Management](https://www.icmassetmanagement.com/)
 - 💻 Software Development Intern at [Arcurve](https://www.arcurve.com/)
--  📈: Business Analyst Intern at [Arcurve](https://www.arcurve.com/)
+-  📈 Business Analyst Intern at [Arcurve](https://www.arcurve.com/)
 
