@@ -10,7 +10,7 @@ I'm John, a fifth year Software Engineering and Business Dual Degree student at 
 
 Past Experiences:
 
-- 💲 Investment Analyst Intern at [ICM Asset Management](https://www.icmassetmanagement.com/)
-- 💻 Software Development Intern at [Arcurve](https://www.arcurve.com/)
 -  📈 Business Analyst Intern at [Arcurve](https://www.arcurve.com/)
+- 💻 Software Development Intern at [Arcurve](https://www.arcurve.com/)
+- 💲 Investment Analyst Intern at [ICM Asset Management](https://www.icmassetmanagement.com/)
 
