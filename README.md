@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm John, a fifth year Software Engineering and Business Dual Degree student at the University of Calgary!
+I'm John, a final year Software Engineering and Business Dual Degree student at the University of Calgary!
 
 ⚡ I'm interested in fintech and mobile app development
 
@@ -10,7 +10,6 @@ I'm John, a fifth year Software Engineering and Business Dual Degree student at 
 
 Past Experiences:
 
--  📈 Business Analyst Intern at [Arcurve](https://www.arcurve.com/)
-- 💻 Software Development Intern at [Arcurve](https://www.arcurve.com/)
-- 💲 Investment Analyst Intern at [ICM Asset Management](https://www.icmassetmanagement.com/)
-
+- 💲 Investment Analyst at [ICM Asset Management](https://www.icmassetmanagement.com/)
+- 💻 Software Developer at [Arcurve](https://www.arcurve.com/)
+- 📈 Business Analyst at [Arcurve](https://www.arcurve.com/)
