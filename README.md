@@ -4,7 +4,7 @@ I'm John, a Software Engineering & Business Dual Degree student at the Universit
 
 ⚡ I'm interested in fintech and mobile app development
 
-🌱 I'm currently learning React Native and SvelteKit
+🌱 I'm currently improving my skills in React Native and SvelteKit
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/johnmcmurtry)
 
