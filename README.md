@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm John, a final year Software Engineering and Business Dual Degree student at the University of Calgary!
+I'm John, a Software Engineering & Business Dual Degree student at the University of Calgary!
 
 ⚡ I'm interested in fintech and mobile app development
 
